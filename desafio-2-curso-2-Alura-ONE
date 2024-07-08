@@ -1,0 +1,19 @@
+/*1. Crear una función que muestre "¡Hola, mundo!" en la consola.
+
+function saludo() {
+    console.log('¡Hola, mundo!');
+}
+
+saludo();
+*/
+
+/*2. Crear una función que reciba un nombre como parámetro y muestre "¡Hola, [nombre]!" en la consola.
+
+function mostrarHolaNombre(nombre) {
+    console.log(`¡Hola, ${nombre}!`);
+  }
+  
+  mostrarHolaNombre("Maria Isabel");
+*/
+/* 3. Crear una función que reciba un número como parámetro y devuelva el doble de ese número.*/
+
