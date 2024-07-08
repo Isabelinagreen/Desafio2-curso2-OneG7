@@ -16,4 +16,41 @@ function mostrarHolaNombre(nombre) {
   mostrarHolaNombre("Maria Isabel");
 */
 /* 3. Crear una función que reciba un número como parámetro y devuelva el doble de ese número.*/
+function calcularElDoble(numero) {
+    return numero * 2;
+  }
+  
+  let resultado = calcularElDoble(5);
+  console.log(resultado);
+*/
+/* 4. Crear una función que reciba tres números como parámetros y devuelva su promedio.
+
+function calcularPromedio(numero1, numero2, numero3) {
+    return (numero1 + numero2 + numero3) / 3;
+  }
+  
+  let resultado = calcularPromedio(2,4,8);
+  console.log(resultado);
+*/
+
+/* 5.  Crear una función que recibe dos números como parámetros y devuelve el mayor de ellos.
+
+function numeroMayor(a, b) {
+    if (a > b) {
+      return a;
+    } else {
+      return b;
+    }
+  }
+  let resultado = numeroMayor(11, 9);
+  console.log(resultado);
+
+6.  Crear una función que reciba un número como parámetro y devuelva el resultado de multiplicar ese número por sí mismo.
+
+function cuadrado(numero) {
+    return numero * numero;
+  }
+  
+  let resultado = cuadrado(3);
+  console.log(resultado);
 
